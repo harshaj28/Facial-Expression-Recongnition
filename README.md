@@ -5,7 +5,7 @@ This is my second project on github.
 First Download the data set and then train the model by running classification_little_vgg.py.
 the trained model file will be saved.
 then download the haarcascade file and Give the path of trained model.
-run the code.
+run the facial_expression_recog.py code.
 for any help feel free to DM
 on instagrm @harshaj_p
 on twitter @pariharharhaj
